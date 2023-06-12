@@ -1,0 +1,9 @@
+CREATE DATABASE db_pertama;
+
+CREATE DATABASE db_kedua;
+
+SHOW DATABASES;
+
+DROP DATABASE db_pertama;
+
+DROP DATABASE db_kedua;
