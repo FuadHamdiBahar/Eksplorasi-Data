@@ -1,3 +1,7 @@
 # Explorasi-Data
 
-This repository is a repository to store all code that I have been made for Explorasi Data content
+A repository to store all codes that I have made for Explorasi Data content
+<br>
+Instagram : [@eksplorasidata]([myLib/README.md](https://www.instagram.com/eksplorasidata/)https://www.instagram.com/eksplorasidata/)
+<br><br>
+Thank You.
