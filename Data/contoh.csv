@@ -1,0 +1,180 @@
+,domains,state-province,country,alpha_two_code,web_pages,name
+0,['rhul.ac.uk'],,United Kingdom,GB,['https://rhul.ac.uk'],Royal Holloway University of London
+1,"['myport.ac.uk', 'myport.port.ac.uk']",,United Kingdom,GB,['https://myport.port.ac.uk'],University of Portsmouth
+2,['futureworks.ac.uk'],,United Kingdom,GB,['https://futureworks.ac.uk/'],Futureworks
+3,['arts.ac.uk'],,United Kingdom,GB,['https://www.arts.ac.uk'],University of the Arts London
+4,"['abdn.ac.uk', 'aberdeen.ac.uk']",,United Kingdom,GB,['http://www.abdn.ac.uk/'],University of Aberdeen
+5,['aber.ac.uk'],,United Kingdom,GB,['http://www.aber.ac.uk/'],"University of Wales, Aberystwyth"
+6,['abertay.ac.uk'],,United Kingdom,GB,['http://www.abertay.ac.uk/'],University of Abertay Dundee
+7,['aiuniv.edu'],,United Kingdom,GB,['http://www.aiuniv.edu/'],American InterContinental University - London
+8,['anglia.ac.uk'],,United Kingdom,GB,['http://www.anglia.ac.uk/'],Anglia Ruskin University
+9,['aston.ac.uk'],,United Kingdom,GB,['http://www.aston.ac.uk/'],Aston University
+10,['aul.edu'],,United Kingdom,GB,['http://www.aul.edu/'],The American University in London
+11,['bangor.ac.uk'],,United Kingdom,GB,['http://www.bangor.ac.uk/'],"University of Wales, Bangor"
+12,['bath.ac.uk'],,United Kingdom,GB,['http://www.bath.ac.uk/'],University of Bath
+13,['bathspa.ac.uk'],,United Kingdom,GB,['https://www.bathspa.ac.uk/'],Bath Spa University
+14,['bbk.ac.uk'],,United Kingdom,GB,['http://www.bbk.ac.uk/'],"Birkbeck College, University of London"
+15,['bcom.ac.uk'],,United Kingdom,GB,['http://www.bcom.ac.uk/'],British College of Osteopathic Medicine
+16,['bcu.ac.uk'],,United Kingdom,GB,['http://www.bcu.ac.uk/'],Birmingham City University
+17,['beds.ac.uk'],,United Kingdom,GB,['http://www.beds.ac.uk/'],University of Bedfordshire
+18,['bham.ac.uk'],,United Kingdom,GB,['http://www.bham.ac.uk/'],University of Birmingham
+19,['bolton.ac.uk'],,United Kingdom,GB,['http://www.bolton.ac.uk/'],University of Bolton
+20,['bournemouth.ac.uk'],,United Kingdom,GB,['http://www.bournemouth.ac.uk/'],Bournemouth University
+21,['brad.ac.uk'],,United Kingdom,GB,['http://www.brad.ac.uk/'],University of Bradford
+22,['brijnet.org'],,United Kingdom,GB,['http://www.brijnet.org/lsjs/'],London School of Jewish Studies
+23,"['bristol.ac.uk', 'bris.ac.uk']",,United Kingdom,GB,['https://www.bristol.ac.uk/'],University of Bristol
+24,['brookes.ac.uk'],,United Kingdom,GB,['http://www.brookes.ac.uk/'],Oxford Brookes University
+25,['brunel.ac.uk'],,United Kingdom,GB,['http://www.brunel.ac.uk/'],Brunel University Uxbridge
+26,['bton.ac.uk'],,United Kingdom,GB,['http://www.bton.ac.uk/'],University of Brighton
+27,['buck.ac.uk'],,United Kingdom,GB,['http://www.buck.ac.uk/'],University of Buckingham
+28,['bucks.ac.uk'],,United Kingdom,GB,['http://www.bucks.ac.uk/'],Buckinghamshire New University
+29,['cam.ac.uk'],,United Kingdom,GB,['http://www.cam.ac.uk/'],University of Cambridge
+30,['camb.linst.ac.uk'],,United Kingdom,GB,['http://www.camb.linst.ac.uk/'],Camberwell College of Arts
+31,['canterbury.ac.uk'],Canterbury,United Kingdom,GB,['http://www.canterbury.ac.uk/'],Canterbury Christ Church University
+32,"['cardiff.ac.uk', 'cf.ac.uk']",,United Kingdom,GB,['http://www.cardiff.ac.uk/'],Cardiff University
+33,['chelsea.linst.ac.uk'],,United Kingdom,GB,['http://www.chelsea.linst.ac.uk/'],Chelsea College of Art and Design
+34,['chester.ac.uk'],,United Kingdom,GB,['http://www.chester.ac.uk/'],University of Chester
+35,['city.ac.uk'],,United Kingdom,GB,['http://www.city.ac.uk/'],City University
+36,['courtauld.ac.uk'],,United Kingdom,GB,['http://www.courtauld.ac.uk/'],"Courtauld Institute of Art, University of London"
+37,['coventry.ac.uk'],,United Kingdom,GB,['http://www.coventry.ac.uk/'],Coventry University
+38,['cranfield.ac.uk'],,United Kingdom,GB,['http://www.cranfield.ac.uk/'],Cranfield University
+39,['csm.linst.ac.uk'],,United Kingdom,GB,['http://www.csm.linst.ac.uk/'],Central Saint Martins College of Art & Design
+40,['derby.ac.uk'],,United Kingdom,GB,['http://www.derby.ac.uk/'],University of Derby
+41,['dmu.ac.uk'],,United Kingdom,GB,['http://www.dmu.ac.uk/'],De Montfort University Leicester
+42,['dundee.ac.uk'],,United Kingdom,GB,['http://www.dundee.ac.uk/'],University of Dundee
+43,['dur.ac.uk'],,United Kingdom,GB,['http://www.dur.ac.uk/'],University of Durham
+44,['edgehill.ac.uk'],,United Kingdom,GB,['http://www.edgehill.ac.uk/'],Edge Hill University
+45,['ed.ac.uk'],,United Kingdom,GB,['http://www.ed.ac.uk/'],University of Edinburgh
+46,['eselondon.ac.uk'],,United Kingdom,GB,['http://www.eselondon.ac.uk/'],European School of Economics
+47,"['essex.ac.uk', 'sx.ac.uk']",,United Kingdom,GB,['http://www.essex.ac.uk/'],University of Essex
+48,['ex.ac.uk'],,United Kingdom,GB,['http://www.ex.ac.uk/'],University of Exeter
+49,['falmouth.ac.uk'],,United Kingdom,GB,['http://www.falmouth.ac.uk/'],Falmouth University
+50,"['gcal.ac.uk', 'gcu.ac.uk']",,United Kingdom,GB,['http://www.gcal.ac.uk/'],Glasgow Caledonian University
+51,['gla.ac.uk'],,United Kingdom,GB,['http://www.gla.ac.uk/'],University of Glasgow
+52,['glam.ac.uk'],,United Kingdom,GB,['http://www.glam.ac.uk/'],University of Glamorgan
+53,['glos.ac.uk'],,United Kingdom,GB,['http://www.glos.ac.uk/'],University of Gloucestershire
+54,['gold.ac.uk'],,United Kingdom,GB,['http://www.gold.ac.uk/'],"Goldsmiths College, University of London"
+55,['gre.ac.uk'],,United Kingdom,GB,['http://www.gre.ac.uk/'],University of Greenwich
+56,"['gsa.ac.uk', 'student.gsa.ac.uk']",,United Kingdom,GB,['http://www.gsa.ac.uk/'],Glasgow School of Art
+57,['halifaxuni.ac'],,United Kingdom,GB,['http://www.halifaxuni.ac/'],"University of Halifax, Birmingham Campus"
+58,['herts.ac.uk'],,United Kingdom,GB,['http://www.herts.ac.uk/'],University of Hertfordshire
+59,['heythrop.ac.uk'],,United Kingdom,GB,['http://www.heythrop.ac.uk/'],"Heythrop College, University of London"
+60,['hope.ac.uk'],,United Kingdom,GB,['http://www.hope.ac.uk/'],Liverpool Hope University College
+61,['hud.ac.uk'],,United Kingdom,GB,['http://www.hud.ac.uk/'],University of Huddersfield
+62,['hull.ac.uk'],,United Kingdom,GB,['http://www.hull.ac.uk/'],University of Hull
+63,['huron.ac.uk'],,United Kingdom,GB,['http://www.huron.ac.uk/'],Huron University USA in London
+64,['hw.ac.uk'],,United Kingdom,GB,['http://www.hw.ac.uk/'],Heriot-Watt University
+65,"['imperial.ac.uk', 'ic.ac.uk']",,United Kingdom,GB,['http://www.imperial.ac.uk/'],Imperial College London
+66,['ifslearning.ac.uk'],,United Kingdom,GB,['http://www.ifslearning.ac.uk/'],ifs University College
+67,['ihr.sas.ac.uk'],,United Kingdom,GB,['http://ihr.sas.ac.uk/'],"Institue of Historical Research, University of London"
+68,['ioe.ac.uk'],,United Kingdom,GB,['http://www.ioe.ac.uk/'],"Institute of Education, University of London"
+69,['islamiccolleges.com'],,United Kingdom,GB,['http://www.islamiccolleges.com/'],International Colleges of Islamic Science
+70,['kcl.ac.uk'],,United Kingdom,GB,['http://www.kcl.ac.uk/'],"King's College London, University of London"
+71,['keele.ac.uk'],,United Kingdom,GB,['http://www.keele.ac.uk/'],Keele University
+72,['kingston.ac.uk'],,United Kingdom,GB,['http://www.kingston.ac.uk/'],Kingston University
+73,['kolieh.com'],,United Kingdom,GB,['http://www.kolieh.com/'],International Centre for Isclamic Science
+74,['lamp.ac.uk'],,United Kingdom,GB,['http://www.lamp.ac.uk/'],"University of Wales, Lampeter"
+75,['lancs.ac.uk'],,United Kingdom,GB,['http://www.lancs.ac.uk/'],University of Lancaster
+76,"['lboro.ac.uk', 'student.lboro.ac.uk']",,United Kingdom,GB,['http://www.lboro.ac.uk/'],Loughborough University
+77,['lbs.lon.ac.uk'],,United Kingdom,GB,['http://www.lbs.lon.ac.uk/'],London Business School
+78,['lcst.ac'],,United Kingdom,GB,['http://www.lcst.ac/'],London College of Science & Technology
+79,['le.ac.uk'],,United Kingdom,GB,['http://www.le.ac.uk/'],University of Leicester
+80,['leeds.ac.uk'],,United Kingdom,GB,['http://www.leeds.ac.uk/'],University of Leeds
+81,['lgu.ac.uk'],,United Kingdom,GB,['http://www.lgu.ac.uk/'],London Guildhall University
+82,['limt.co.uk'],,United Kingdom,GB,['http://www.limt.co.uk/'],London Institute of Management and Technology
+83,['lincoln.ac.uk'],,United Kingdom,GB,['http://www.lincoln.ac.uk/'],University of Lincoln
+84,['liv.ac.uk'],,United Kingdom,GB,['http://www.liv.ac.uk/'],University of Liverpool
+85,['ljmu.ac.uk'],,United Kingdom,GB,['https://www.ljmu.ac.uk/'],Liverpool John Moores University
+86,['leedsbeckett.ac.uk'],,United Kingdom,GB,['https://www.leedsbeckett.ac.uk/'],Leeds Beckett University
+87,['lon.ac.uk'],,United Kingdom,GB,['http://www.lon.ac.uk/'],University of London
+88,['londonmet.ac.uk'],,United Kingdom,GB,['http://www.londonmet.ac.uk/'],London Metropolitan University
+89,['lsbf.org.uk'],,United Kingdom,GB,['http://www.lsbf.org.uk/'],London School of Business & Finance
+90,['lse.ac.uk'],,United Kingdom,GB,['http://www.lse.ac.uk/'],"London School of Economics and Political Science, University of London"
+91,['lshtm.ac.uk'],,United Kingdom,GB,['http://www.lshtm.ac.uk/'],"London School of Hygiene & Tropical Medicine, University of London"
+92,"['manchester.ac.uk', 'mbs.ac.uk', 'man.ac.uk']",,United Kingdom,GB,['http://www.manchester.ac.uk/'],University of Manchester
+93,['mdx.ac.uk'],,United Kingdom,GB,['http://www.mdx.ac.uk/'],Middlesex University
+94,['med.ic.ac.uk'],,United Kingdom,GB,['http://www.med.ic.ac.uk/'],Imperial College School of Medicine
+95,['mmu.ac.uk'],,United Kingdom,GB,['http://www.mmu.ac.uk/'],The Manchester Metropolitan University
+96,['napier.ac.uk'],,United Kingdom,GB,['http://www.napier.ac.uk/'],Napier University
+97,['ncl.ac.uk'],,United Kingdom,GB,['http://www.ncl.ac.uk/'],University of Newcastle-upon-Tyne
+98,['newport.ac.uk'],,United Kingdom,GB,['http://www.newport.ac.uk/'],"University of Wales, Newport"
+99,['niu.org.uk'],,United Kingdom,GB,['http://www.niu.org.uk/'],Newport International University
+100,['northampton.ac.uk'],,United Kingdom,GB,['http://www.northampton.ac.uk/'],University of Northampton
+101,['nottingham.ac.uk'],,United Kingdom,GB,['http://www.nottingham.ac.uk/'],University of Nottingham
+102,['ntu.ac.uk'],,United Kingdom,GB,['http://www.ntu.ac.uk/'],Nottingham Trent University
+103,['open.ac.uk'],,United Kingdom,GB,['http://www.open.ac.uk/'],Open University
+104,"['oxford.ac.uk', 'ox.ac.uk']",,United Kingdom,GB,['http://www.ox.ac.uk/'],University of Oxford
+105,['paisley.ac.uk'],,United Kingdom,GB,['http://www.paisley.ac.uk/'],University of Paisley
+106,['plymouth.ac.uk'],,United Kingdom,GB,['http://www.plymouth.ac.uk/'],University of Plymouth
+107,['port.ac.uk'],,United Kingdom,GB,['http://www.port.ac.uk/'],University of Portsmouth
+108,"['qmw.ac.uk', 'qmul.ac.uk']",,United Kingdom,GB,['http://www.qmul.ac.uk/'],"Queen Mary, University of London"
+109,['qub.ac.uk'],,United Kingdom,GB,['http://www.qub.ac.uk/'],The Queen's University Belfast
+110,['ram.ac.uk'],,United Kingdom,GB,['http://www.ram.ac.uk/'],"Royal Academy of Music, University of London"
+111,"['rca.ac.uk', 'network.rca.ac.uk']",,United Kingdom,GB,['http://www.rca.ac.uk/'],Royal College of Art
+112,['rcm.ac.uk'],,United Kingdom,GB,['http://www.rcm.ac.uk/'],"Royal College of Music, University of London"
+113,['rdg.ac.uk'],,United Kingdom,GB,['http://www.rdg.ac.uk/'],University of Reading
+114,['rfhsm.ac.uk'],,United Kingdom,GB,['http://www.rfhsm.ac.uk/'],"Royal Free Hospital School of Medicine, University of London"
+115,['rgu.ac.uk'],,United Kingdom,GB,['http://www.rgu.ac.uk/'],The Robert Gordon University
+116,"['royalholloway.ac.uk', 'rhbnc.ac.uk', 'rh.ac.uk']",,United Kingdom,GB,['http://www.royalholloway.ac.uk/'],Royal Holloway and Bedford New College
+117,['richmond.ac.uk'],,United Kingdom,GB,['http://www.richmond.ac.uk/'],Richmond University - The American International University in London
+118,['roehampton.ac.uk'],,United Kingdom,GB,['http://www.roehampton.ac.uk/'],Roehampton University of Surrey
+119,['salford.ac.uk'],,United Kingdom,GB,['http://www.salford.ac.uk/'],University of Salford
+120,['sas.ac.uk'],,United Kingdom,GB,['http://www.sas.ac.uk/'],"School of Advanced Study, University of London"
+121,['sbu.ac.uk'],,United Kingdom,GB,['http://www.sbu.ac.uk/'],South Bank University
+122,['schillerlondon.ac.uk'],,United Kingdom,GB,['http://www.schillerlondon.ac.uk/'],"Schiller International University, London"
+123,['sclondon.ac'],,United Kingdom,GB,['http://www.sclondon.ac/'],Stratford College London
+124,['sghms.ac.uk'],,United Kingdom,GB,['http://www.sghms.ac.uk/'],"Saint George's Hospital Medical School, University of London"
+125,"['shef.ac.uk', 'sheffield.ac.uk']",,United Kingdom,GB,['http://www.shef.ac.uk/'],University of Sheffield
+126,['shu.ac.uk'],,United Kingdom,GB,['http://www.shu.ac.uk/'],Sheffield Hallam University
+127,['smu.ac.uk'],,United Kingdom,GB,['http://www.smu.ac.uk/'],Swansea Metropolitan University
+128,['soas.ac.uk'],,United Kingdom,GB,['http://www.soas.ac.uk/'],"School of Oriental and African Studies, University of London"
+129,['solent.ac.uk'],,United Kingdom,GB,['http://www.solent.ac.uk/'],Southampton Solent University
+130,['sothebysinstitutelondon.com'],,United Kingdom,GB,['http://www.sothebysinstitutelondon.com/'],Sotheby´s Institute of Art - London
+131,['soton.ac.uk'],,United Kingdom,GB,['http://www.southampton.ac.uk/'],University of Southampton
+132,['ssees.ac.uk'],,United Kingdom,GB,['http://www.ssees.ac.uk/'],"School of Slavonic and East European Studies, University of London"
+133,['staffs.ac.uk'],,United Kingdom,GB,['http://www.staffs.ac.uk/'],Staffordshire University
+134,"['st-andrews.ac.uk', 'st-and.ac.uk']",,United Kingdom,GB,['https://www.st-andrews.ac.uk/'],University of St. Andrews
+135,['stir.ac.uk'],,United Kingdom,GB,['http://www.stir.ac.uk/'],University of Stirling
+136,['st-patricks.ac.uk'],,United Kingdom,GB,['http://www.st-patricks.ac.uk/'],"St.Patrick's International College, London"
+137,['strath.ac.uk'],,United Kingdom,GB,['http://www.strath.ac.uk/'],University of Strathclyde
+138,['sunderland.ac.uk'],,United Kingdom,GB,['http://www.sunderland.ac.uk/'],University of Sunderland
+139,['surrey.ac.uk'],,United Kingdom,GB,['http://www.surrey.ac.uk/'],University of Surrey
+140,['sussex.ac.uk'],,United Kingdom,GB,['http://www.sussex.ac.uk/'],University of Sussex
+141,['swan.ac.uk'],,United Kingdom,GB,['http://www.swan.ac.uk/'],"University of Wales, Swansea"
+142,['tcm.ac.uk'],,United Kingdom,GB,['http://www.tcm.ac.uk/'],Trinity College of Music
+143,['tees.ac.uk'],,United Kingdom,GB,['http://www.tees.ac.uk/'],University of Teesside
+144,['trinity-cm.ac.uk'],,United Kingdom,GB,['http://www.trinity-cm.ac.uk/'],Trinity College Carmarthen
+145,['tvu.ac.uk'],,United Kingdom,GB,['http://www.tvu.ac.uk/'],Thames Valley University
+146,['ucl.ac.uk'],,United Kingdom,GB,['http://www.ucl.ac.uk/'],"University College London, University of London"
+147,['uclan.ac.uk'],,United Kingdom,GB,['http://www.uclan.ac.uk/'],University of Central Lancashire
+148,['ucs.ac.uk'],,United Kingdom,GB,['http://www.ucs.ac.uk/'],University Campus Suffolk
+149,['uea.ac.uk'],,United Kingdom,GB,['http://www.uea.ac.uk/'],University of East Anglia
+150,['uel.ac.uk'],,United Kingdom,GB,['http://www.uel.ac.uk/'],University of East London
+151,['ukc.ac.uk'],,United Kingdom,GB,['http://www.ukc.ac.uk/'],University of Kent at Canterbury
+152,['ulsop.ac.uk'],,United Kingdom,GB,['http://www.ulsop.ac.uk/'],"School of Pharmacy, University of London"
+153,['ulst.ac.uk'],,United Kingdom,GB,['http://www.ulst.ac.uk/'],University of Ulster
+154,['umds.ac.uk'],,United Kingdom,GB,['http://www.umds.ac.uk/'],"United Medical and Dental Schools, University of London"
+155,['unl.ac.uk'],,United Kingdom,GB,['http://www.unl.ac.uk/'],University of North London
+156,['unn.ac.uk'],,United Kingdom,GB,['http://www.unn.ac.uk/'],University of Northumbria at Newcastle
+157,['uwcm.ac.uk'],,United Kingdom,GB,['http://www.uwcm.ac.uk/'],University of Wales College of Medicine
+158,['uwe.ac.uk'],,United Kingdom,GB,['http://www.uwe.ac.uk/'],"University of the West of England, Bristol"
+159,['uwic.ac.uk'],,United Kingdom,GB,['http://www.uwic.ac.uk/'],"University of Wales Institute, Cardiff"
+160,['wales.ac.uk'],,United Kingdom,GB,['http://www.wales.ac.uk/'],University of Wales
+161,['warnborough.edu'],,United Kingdom,GB,['http://www.warnborough.edu/'],Warnborough University
+162,['warwick.ac.uk'],,United Kingdom,GB,['http://www.warwick.ac.uk/'],University of Warwick
+163,['westminster.ac.uk'],,United Kingdom,GB,['http://www.westminster.ac.uk/'],University of Westminster
+164,['williamgilbert.co.uk'],,United Kingdom,GB,['http://www.williamgilbert.co.uk/'],William Gilbert College
+165,['wimbledon.ac.uk'],,United Kingdom,GB,['http://www.wimbledon.ac.uk/'],Wimbledon School of Art
+166,['wlv.ac.uk'],,United Kingdom,GB,['http://www.wlv.ac.uk/'],University of Wolverhampton
+167,['worc.ac.uk'],,United Kingdom,GB,['http://www.worc.ac.uk/'],University of Worcester
+168,['york.ac.uk'],,United Kingdom,GB,['http://www.york.ac.uk/'],University of York
+169,"['middlesbro.ac.uk', 'mbro.ac.uk']",,United Kingdom,GB,['https://www.mbro.ac.uk/'],Middlesbrough College
+170,['stmarys.ac.uk'],,United Kingdom,GB,['https://www.stmarys.ac.uk/home.aspx'],St Mary's University
+171,['leedstrinity.ac.uk'],,United Kingdom,GB,['https://www.leedstrinity.ac.uk/'],Leeds Trinity University
+172,['eastcoast.ac.uk'],,United Kingdom,GB,['https://www.eastcoast.ac.uk/'],East Coast College
+173,['swansea.ac.uk'],,United Kingdom,GB,['https://www.swansea.ac.uk/'],Swansea University
+174,['yorksj.ac.uk'],,United Kingdom,GB,['https://www.yorksj.ac.uk/'],York St. John University
+175,['cavc.ac.uk'],,United Kingdom,GB,['https://cavc.ac.uk/'],Cardiff and Vale College
+176,['wakefield.ac.uk'],,United Kingdom,GB,['https://wakefield.ac.uk'],Wakefield College
+177,['lis.ac.uk'],,United Kingdom,GB,['https://www.lis.ac.uk/'],London Interdisciplinary School
+178,['bath.edu'],,United Kingdom,GB,['https://bath.ac.uk'],University of Bath
